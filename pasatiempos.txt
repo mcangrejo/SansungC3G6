@@ -1,0 +1,5 @@
+Nombre	edad	pasatiempo
+Duvan	20	caminar
+Paula	22	nadar
+Laura	17	baloncesto
+Zarella 16	musica
