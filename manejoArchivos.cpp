@@ -1,4 +1,4 @@
-/*programa de creacion, modificacion y lectura de archivos */
+/*programa de creacion, modificacion de archivos */
 /* creado por: Martha Cano*/
 /* fecha: 19 de enero 2022*/
 
